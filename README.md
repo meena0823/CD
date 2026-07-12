@@ -257,11 +257,4 @@ gcc lex.yy.c proj1.tab.c -o a.exe
 
 This project demonstrates the complete working of a compiler by implementing all major phases. It shows how high-level code is analyzed, structured, validated, and transformed into intermediate and target-level representations. The use of Flex and Bison simplifies the implementation of lexical and syntax analysis while providing a clear understanding of compiler design concepts.
 
-# Authors
-Dongeshwar Sudhiksha - 160123733148
-Kommareddy Vishrutha Reddy - 160123733153
-Pavani Manupati - 160123733158
-Nagilla Meenakshi Kruthika Reddy - 160123733160
-Sahithi Pathem - 160123733164
-
 ---
